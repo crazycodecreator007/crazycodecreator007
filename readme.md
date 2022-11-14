@@ -2,10 +2,11 @@
 
 
 ###
-I am a full stack developer with over 7 years of experience.
-Contact me [<img align="left" alt="Pavlo | Gmail" height="22px" src="./assets/Gmail.png" />](mailto:crazycodecreator@gmail.com)
-[<img align="left" alt="Pavlo | Skype" height="22px" src="./assets/Skype.png" />](https://join.skype.com/invite/lTsEFLAFSoOQ)
-[<img align="left" alt="Pavlo | Telegram" height="22px" src="./assets/Telegram.jpg" />](https://google.com)
+I am a full stack developer with over 7 years of experience
+
+Contact me [<img alt="Crazycodecreator | Gmail" height="22px" src="./assets/Gmail.png" />](mailto:crazycodecreator@gmail.com)
+[<img alt="Crazycodecreator | Skype" height="22px" src="./assets/Skype.png" />](https://join.skype.com/invite/lTsEFLAFSoOQ)
+[<img alt="Crazycodecreator | Telegram" height="22px" src="./assets/Telegram.jpg" />](https://google.com)
 <p align="center">
   <a href="https://github.com/crazycodecreator007"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Full-stack%20developer;My%20core%20tech%20stack%20is%20Python;I%20have%207+%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
 </p>
