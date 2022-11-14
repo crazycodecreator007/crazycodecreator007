@@ -2,9 +2,9 @@
 
 
 ###
-I am a full stack developer with over 7 years of experience
+I am a full stack developer with over 7 years of solid experience in web development
 
-Contact me [<img alt="Crazycodecreator | Gmail" height="22px" src="./assets/Gmail.png" />](mailto:crazycodecreator@gmail.com)
+Contact me&nbsp;&nbsp;&nbsp;[<img alt="Crazycodecreator | Gmail" height="22px" src="./assets/Gmail.png" />](mailto:crazycodecreator@gmail.com)
 [<img alt="Crazycodecreator | Skype" height="22px" src="./assets/Skype.png" />](https://join.skype.com/invite/lTsEFLAFSoOQ)
 [<img alt="Crazycodecreator | Telegram" height="22px" src="./assets/Telegram.jpg" />](https://google.com)
 <p align="center">
