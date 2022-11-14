@@ -2,13 +2,10 @@
 
 
 ###
-The only thing I hope here is to succeed your business with my effort and techs.
-Of course, I want to work with honest clients and provide them my full services.
-Since I started freelancing, I have got a number of skill sets in Web2 Full Stack Development.
-While developing Web2, I used to notice the efficiency of Web3 Techs based on Blockchain technology and decided to achieve the cutting-edge techs.
-Also, I trusted Web3 (Blockchain-P2P Network) was a real technical stack in the future.
-I'm trying to move forward to meet the Blockchain Age.
-
+I am a full stack developer with over 7 years of experience.
+Contact me [<img align="left" alt="Pavlo | Gmail" height="22px" src="./assets/Gmail.png" />](mailto:crazycodecreator@gmail.com)
+[<img align="left" alt="Pavlo | Skype" height="22px" src="./assets/Skype.png" />](https://join.skype.com/invite/lTsEFLAFSoOQ)
+[<img align="left" alt="Pavlo | Telegram" height="22px" src="./assets/Telegram.jpg" />](https://google.com)
 <p align="center">
   <a href="https://github.com/crazycodecreator007"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Full-stack%20developer;My%20core%20tech%20stack%20is%20Python;I%20have%207+%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
 </p>
