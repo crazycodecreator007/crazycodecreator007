@@ -78,9 +78,9 @@ I am a full stack developer with over 7 years of solid experience in web develop
 ### My Stats
 <div>
   <a href="http://github.com/crazycodecreator007/" style="width: 40%;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=crazycodecreator007&show_icons=true&theme=radical" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=crazycodecreator007&show_icons=true&count_private=true&theme=radical" />
   </a>
   <a href="http://github.com/crazycodecreator007/" style="width: 40%;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycodecreator007&layout=compact&theme=radical" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycodecreator007&layout=compact&theme=radical&count_private=true" />
   </a>
 <div>
