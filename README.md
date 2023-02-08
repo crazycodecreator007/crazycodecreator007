@@ -4,10 +4,16 @@
 ###
 I am a full stack developer with over 7 years of solid experience in web development
 
-**Contact me&nbsp;&nbsp;&nbsp;&nbsp;**
-[<img style="margin-left: 30px;" alt="Crazycodecreator | Gmail" height="22px" src="./assets/Gmail.png" />](mailto:crazycodecreator@gmail.com)&nbsp;&nbsp;
-[<img alt="Crazycodecreator | Skype" height="22px" src="./assets/Skype.png" />](https://join.skype.com/invite/lTsEFLAFSoOQ)
-[<img alt="Crazycodecreator | Telegram" height="22px" src="./assets/Telegram.jpg" />](https://t.me/codestar7)&nbsp;&nbsp;
+<p align="center">
+  <a href="mailto:crazycodecreator@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/lTsEFLAFSoOQ" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/codestar7" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <!--<a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>-->
+  
+</p>
 
 <p align="center">
   <a href="https://github.com/crazycodecreator007"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Full-stack%20developer;My%20core%20tech%20stack%20is%20Python;I%20have%207+%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
