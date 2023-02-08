@@ -64,13 +64,10 @@ I am a full stack developer with over 7 years of solid experience in web develop
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
+</div> 
 
-### My Stats
-<div>
-  <a href="http://github.com/crazycodecreator007/" style="width: 40%;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=crazycodecreator007&show_icons=true&count_private=true&theme=radical" />
-  </a>
-  <a href="http://github.com/crazycodecreator007/" style="width: 40%;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycodecreator007&layout=compact&theme=radical&count_private=true" />
-  </a>
-<div>
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=crazycodecreator007&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+</p>
