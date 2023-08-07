@@ -2,7 +2,7 @@
 
 
 ###
-I am a full stack developer with over 7 years of solid experience in web development
+I am a full stack developer with over 10 years of solid experience in web development
 
 <p align="center">
   <a href="mailto:crazycodecreator@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
@@ -16,7 +16,7 @@ I am a full stack developer with over 7 years of solid experience in web develop
 </p>
 
 <p align="center">
-  <a href="https://github.com/crazycodecreator007"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Full-stack%20developer;My%20core%20tech%20stack%20is%20Python;I%20have%207+%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/crazycodecreator007"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Full-stack%20developer;My%20core%20tech%20stack%20is%20Python;I%20have%2010+%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
 </p>
 
 ### Technologies
@@ -70,9 +70,9 @@ I am a full stack developer with over 7 years of solid experience in web develop
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
-<div align="center">
+<!--<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-</div> 
+</div> -->
 
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=crazycodecreator007&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
